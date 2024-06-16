@@ -1,5 +1,5 @@
 # visual_classification_with_LLM
-<img width="712" alt="image" src="https://github.com/user-attachments/files/15858666/prompt.pdf">
+<img width="712" alt="image" src="https://github.com/user-attachments/files/15858672/prompt_github.pdf">
 
 
 ## Configuration
