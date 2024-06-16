@@ -1,4 +1,6 @@
 # visual_classification_with_LLM
+<img width="712" alt="image" src="https://github.com/user-attachments/files/15858666/prompt.pdf">
+
 
 ## Configuration
 You can change your configuration (hparams) in ```load.py```
