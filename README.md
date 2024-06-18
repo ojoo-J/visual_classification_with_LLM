@@ -2,6 +2,7 @@
 <img width="712" alt="image" src="https://github.com/user-attachments/files/15858672/prompt_github.pdf">
 <img width="712" alt="image" src="https://github.com/ojoo-J/visual_classification_with_LLM/assets/63037270/2d80c160-0d43-4e09-8527-0c8795d46a4a">
 
+BASELINE: https://github.com/sachit-menon/classify_by_description_release.git
 
 ## Configuration
 You can change your configuration (hparams) in ```load.py```
